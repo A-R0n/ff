@@ -16,9 +16,11 @@ class Team extends Component {
                     <score id='score'>
                         <grade>Overall:</grade>
 					    <gradeint>98.5</gradeint>
-                        <p>Davante was safe. Leonard fournette was "for the fuckin kids." Not a single negative report on David Montgomery. I would be really shocked if he isn't the bell cow this year. Bucs coaching staff didn't add any depth behind Godwin because they don't need to. Yall let derrick henry drop to the fifth smh. Patriots let Josh Gordon smoke weed. He is the best athlete on that team and will easily be a WR1 this season. Lamar Jackson is the next mike vick. He'll be on my bench lol. Sick World. Mark Andrews is the best receiver on the ravens according to everyone tied to that organization.</p>
+						<p>"For the fxckin kids, man."</p>
                     </score>
 				</div>
+				
+
 				<table>
 					<tr>
 						<th className="round">Round</th>

@@ -4,11 +4,10 @@ const cors = require('cors');
 const { json } = require('body-parser');
 const path = require('path');
 const app = express();
-const {SERVER_PORT} = process.env;
+const { SERVER_PORT } = process.env;
 const port = SERVER_PORT | 3003;
 app.use(json());
 app.use(cors());
-
 
 app.use(express.static(`${__dirname}/../build/`));
 app.get('*', (req, res) => {

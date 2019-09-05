@@ -82,8 +82,8 @@ gradeint {
 p {
 	text-align: left;
 	text-indent: 10%;
-	padding: 5px;
-	width: 70vw;
+    padding: 5px;
+    min-width: 66%;
 	/* overflow: scroll; */
 }
 
@@ -95,25 +95,16 @@ a {
 	font-weight: bold;
 }
 
-@media only screen and (max-width: 580px) {
-	p {
-		margin-right: 20px;
-		max-height: 25vh;
-		min-height: 10vh;
-		max-width: 260px;
-		min-width: 10px;
-		padding: 5px;
-		text-indent: 0%;
-	}
+/* @media only screen and (max-width: 580px) {
+
 	table {
 		max-width: 96%;
 	}
 	.pic {
 		display: flex;
 		flex-shrink: 1;
-		justify-content: center;
-		align-content: center;
-		align-items: center;
+		align-content: space-between;
+		align-items: space-between;
 		padding: none;
 		margin: auto;
 	}
@@ -126,33 +117,43 @@ a {
 	#matt {
 		margin-top: auto;
 	}
-	#mypic {
-		margin-top: 0;
-		padding-top: 0;
-	}
+
 	img {
 		padding-left: 0;
 		margin-bottom: auto;
 		width: 140px;
 		height: 140px;
+    }
+    
+    #score {
+        min-width: 62%;
+    }
+    #mypic {
+		padding-left: 0px;
+        max-width: 120px;
+        max-height: 120px;
 	}
-}
+} */
 
-@media only screen and (max-width: 440px) {
+@media only screen and (max-width: 580px) {
 	img {
 		height: 100px;
 		width: 100px;
 	}
 	#mypic {
-		margin-left: -25px;
+		margin-left: 0px;
 		padding-left: 0px;
 		max-height: 100px;
 		max-width: 100px;
 	}
-	#score {
-		max-width: 70%;
+	.pic {
+        display: flex;
+        justify-content: space-between;
+        align-content: space-between;
+        align-items: space-between;
+		/* min-width: 70%; */
 		padding-right: 0px;
-		margin-left: -5px;
+		margin-left: 0px;
 		margin-right: 0px;
 	}
 }
