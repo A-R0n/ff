@@ -1,31 +1,42 @@
 {
-  "name": "ffdraftresults-app",
-  "version": "0.1.0",
-  "private": true,
-  "dependencies": {
-    "react": "^16.9.0",
-    "react-dom": "^16.9.0",
-    "react-scripts": "3.1.1"
-  },
-  "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
-  },
-  "eslintConfig": {
-    "extends": "react-app"
-  },
-  "browserslist": {
-    "production": [
-      ">0.2%",
-      "not dead",
-      "not op_mini all"
-    ],
-    "development": [
-      "last 1 chrome version",
-      "last 1 firefox version",
-      "last 1 safari version"
-    ]
-  }
+	"name": "ffdraftresults-app",
+	"version": "0.1.0",
+	"private": true,
+	"dependencies": {
+		"axios": "^0.19.0",
+		"body-parser": "^1.19.0",
+		"concurrently": "^4.1.2",
+		"cors": "^2.8.5",
+		"dotenv": "^8.1.0",
+		"express": "^4.17.1",
+		"react": "^16.9.0",
+		"react-audio-player": "^0.11.1",
+		"react-dom": "^16.9.0",
+		"react-hot-loader": "^4.12.12",
+		"react-scripts": "3.1.1",
+		"react-sound": "^1.2.0"
+	},
+	"scripts": {
+		"start": "react-scripts start",
+		"build": "react-scripts build",
+		"both": "concurrently \"react-scripts start\" \"nodemon server/index.js --watch server\"",
+		"test": "react-scripts test",
+		"eject": "react-scripts eject"
+	},
+	"eslintConfig": {
+		"extends": "react-app"
+	},
+	"browserslist": {
+		"production": [
+			">0.2%",
+			"not dead",
+			"not op_mini all"
+		],
+		"development": [
+			"last 1 chrome version",
+			"last 1 firefox version",
+			"last 1 safari version"
+		]
+	},
+	"proxy": "http://localhost:3001"
 }

@@ -1,0 +1,78 @@
+.tableContainer {
+    overflow-x:auto;
+}
+
+table {
+    border-left : 1px solid grey;
+    border-right: 1px solid grey;
+    border-top: 1px solid grey;
+    margin: auto;
+    /* width: 50%; */
+    background: rgb(248, 242, 226);
+    
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+
+.pic {
+    display: flex;
+}
+
+.round {
+    width: 20px;
+}
+
+.descriptionText {
+    display: flex;
+    border: none;
+}
+
+#matt, #melvin, #team5, #shook, #todd, #troy, #kraick, #kory, #fitch, #dono, #hayden {
+    display: flex;
+    background: green;
+}
+
+img {
+    width: 160px;
+    height: 160px;
+    border-radius: 20%;
+    padding-left: 15px;
+}
+
+
+grade {
+    padding-left: 10px;
+    /* background: red; */
+    font-size: 2em;
+    display: flex;
+}
+
+gradeint {
+    font-size: 1.5em;
+    display: flex;
+    padding-left: 15px;
+    /* background: yellow; */
+}
+
+#score {
+    background: grey;
+    /* color: white; */
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    flex-direction: column;
+}
+
+p {
+    text-align: left;
+    text-indent: 10%;
+    padding: 5px;
+    width: 70vw;
+}
+
+#diggs {
+    font-weight: bold;
+}

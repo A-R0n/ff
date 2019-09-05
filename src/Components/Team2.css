@@ -1,0 +1,38 @@
+.kraick {
+    width: 160px;
+    height: 160px;
+    -webkit-transform:rotate(-90deg);
+    -moz-transform: rotate(-90deg);
+    -ms-transform: rotate(-90deg);
+    -o-transform: rotate(-90deg);
+    transform: rotate(-90deg);
+    border-radius: 20%;
+    background: yellow;
+}
+
+table {
+    border-left : 1px solid grey;
+    border-right: 1px solid grey;
+    border-top: 1px solid grey;
+    margin: auto;
+    width: 50%;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+
+.pic {
+    display: flex;
+}
+
+.round {
+    width: 20px;
+}
+
+.descriptionText {
+    display: flex;
+    padding-left: 50px;
+    border: none;
+}
