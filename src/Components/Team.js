@@ -102,7 +102,7 @@ class Team extends Component {
                     <score id='score'>
                         <grade>Overall:</grade>
 					    <gradeint>93.5</gradeint>
-                        <p>Tyreek Hill cooks people...and abuses them. James Cancer survived cancer, he will surely survive this season. Josh Jacobs is better than Le'Veon Bell. Calvin Ridley a great handcuff, Julio is always injured. Dante Pettis acts like a chawawa - all bark no bite.</p>
+                        <p>Tyreek Hill cooks people...and abuses them. James Cancer survived cancer, he will surely survive this season. Josh Jacobs is better than Le'Veon Bell and still kicks it with the homies. Calvin Ridley a great handcuff, Julio is always injured. Dante Pettis acts like a chawawa - all bark no bite.</p>
                     </score>
 				</div>
                 <table>
@@ -164,7 +164,7 @@ class Team extends Component {
                     <tr>
 						<td>11</td>
 						<td>Dante Pettis</td>
-						<td>C-</td>
+						<td>F</td>
 					</tr>
                     <tr>
 						<td>12</td>
