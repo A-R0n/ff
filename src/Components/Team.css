@@ -21,7 +21,7 @@ td {
 
 .pic {
 	display: flex;
-	flex-basis: 160px;
+	flex-basis: 140px;
 }
 
 .round {
@@ -43,12 +43,9 @@ td {
 #kory,
 #fitch,
 #dono,
-#hayden {
+#hayden,
+#ron {
 	display: flex;
-	flex-basis: 10px;
-	flex-shrink: 2;
-	flex-grow: 1;
-	/* background: green; */
 }
 
 img {
@@ -147,12 +144,15 @@ a {
 		width: 100px;
 	}
 	#mypic {
-		margin-bottom: 0;
-		height: 5px;
+		margin-left: -25px;
+		padding-left: 0px;
+		max-height: 100px;
+		max-width: 100px;
 	}
 	#score {
-		width: 45%;
+		max-width: 70%;
 		padding-right: 0px;
+		margin-left: -5px;
 		margin-right: 0px;
 	}
 }
