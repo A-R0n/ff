@@ -12,7 +12,7 @@ class Team extends Component {
 		return (
 			<div className='tableContainer'>
 				<div className="pic" id='ron'>
-					<img id='mypic' src="https://ffavi.s3.amazonaws.com/IMG-4900.JPG" />
+					<img id='mypic' src="https://ffavi.s3.amazonaws.com/IMG-4900.JPG"  alt='ron'/>
                     <score id='score'>
                         <grade>Overall:</grade>
 					    <gradeint>98.5</gradeint>
@@ -97,8 +97,8 @@ class Team extends Component {
 						<td>B</td>
 					</tr>
 				</table>
-				<div className="pic" id='kory'>
-					<img src="https://ffavi.s3.amazonaws.com/Screen+Shot+2019-09-01+at+10.42.59+PM.png" />
+				<div  id='kory'>
+					<img id='pic' src="https://ffavi.s3.amazonaws.com/Screen+Shot+2019-09-01+at+10.42.59+PM.png" alt='kory' />
                     <score id='score'>
                         <grade>Overall:</grade>
 					    <gradeint>93.5</gradeint>
@@ -183,8 +183,8 @@ class Team extends Component {
 					</tr>
 				</table>
 
-                <div className="pic" id='team5'>
-					<img src="https://ffavi.s3.amazonaws.com/Screen+Shot+2019-09-01+at+10.43.32+PM+(1).png" />
+                <div id='team5'>
+					<img id='pic' src="https://ffavi.s3.amazonaws.com/Screen+Shot+2019-09-01+at+10.43.32+PM+(1).png" alt='team5' />
                     <score id='score'>
                         <grade>Overall:</grade>
 					    <gradeint>90.0</gradeint>
@@ -268,8 +268,8 @@ class Team extends Component {
 						<td>C</td>
 					</tr>
 				</table>
-                <div className="pic" id='melvin'>
-					<img src="https://ffavi.s3.amazonaws.com/Screen+Shot+2019-09-01+at+10.43.48+PM+(1).png" />
+                <div id='melvin'>
+					<img id='pic'src="https://ffavi.s3.amazonaws.com/Screen+Shot+2019-09-01+at+10.43.48+PM+(1).png" alt='mel' />
                     <score id='score'>
                         <grade>Overall:</grade>
 					    <gradeint>88.5</gradeint>
@@ -354,7 +354,7 @@ class Team extends Component {
 					</tr>
 				</table>
                 <div  id='matt'>
-					<img id="pic" src="https://ffavi.s3.amazonaws.com/Screen+Shot+2019-09-01+at+10.43.54+PM+(1).png" />
+					<img id="pic" src="https://ffavi.s3.amazonaws.com/Screen+Shot+2019-09-01+at+10.43.54+PM+(1).png" alt='matt' />
                     <score id='score'>
                         <grade>Overall:</grade>
 					    <gradeint>82.5</gradeint>
@@ -440,8 +440,8 @@ class Team extends Component {
 					</tr>
 				</table>
 
-                <div className="pic" id='todd'>
-					<img src="https://ffavi.s3.amazonaws.com/Screen+Shot+2019-09-01+at+10.50.56+PM.png" />
+                <div  id='todd'>
+					<img id='pic' src="https://ffavi.s3.amazonaws.com/Screen+Shot+2019-09-01+at+10.50.56+PM.png" alt='todd' />
                     <score id='score'>
                         <grade>Overall:</grade>
 					    <gradeint>81.5</gradeint>
@@ -525,8 +525,8 @@ class Team extends Component {
 						<td>C-</td>
 					</tr>
 				</table>
-                <div className="pic" id='fitch'>
-					<img src="https://www.jennstrends.com/wp-content/uploads/2013/10/bad-profile-pic-2-768x768.jpeg" />
+                <div id='fitch'>
+					<img id='pic' src="https://www.jennstrends.com/wp-content/uploads/2013/10/bad-profile-pic-2-768x768.jpeg" alt='fitch' />
                     <score id='score'>
                         <grade>Overall:</grade>
 					    <gradeint>78.0</gradeint>
@@ -610,8 +610,8 @@ class Team extends Component {
 						<td>B</td>
 					</tr>
 				</table>
-				<div className="pic" id='shook'>
-					<img src="https://ffavi.s3.amazonaws.com/Screen+Shot+2019-09-01+at+10.44.00+PM+(1).png" />
+				<div  id='shook'>
+					<img id='pic' src="https://ffavi.s3.amazonaws.com/Screen+Shot+2019-09-01+at+10.44.00+PM+(1).png" alt='shook' />
                     <score id='score'>
                         <grade>Overall:</grade>
 					    <gradeint>76.5</gradeint>
@@ -695,8 +695,8 @@ class Team extends Component {
 						<td>D</td>
 					</tr>
 				</table>
-                <div className="pic" id='hayden'>
-					<img id ='hayden' src="https://ffavi.s3.amazonaws.com/Screen+Shot+2019-09-01+at+10.46.40+PM.png" />
+                <div  id='hayden'>
+					<img id ='pic' src="https://ffavi.s3.amazonaws.com/Screen+Shot+2019-09-01+at+10.46.40+PM.png" alt='hayden'/>
                     <score id='score'>
                         <grade>Overall:</grade>
 					    <gradeint>75.0</gradeint>
@@ -781,8 +781,8 @@ class Team extends Component {
 					</tr>
 				</table>
 				
-                <div className="pic" id='dono'>
-					<img src="https://ffavi.s3.amazonaws.com/Screen+Shot+2019-09-01+at+10.49.21+PM.png" />
+                <div  id='dono'>
+					<img id='pic'src="https://ffavi.s3.amazonaws.com/Screen+Shot+2019-09-01+at+10.49.21+PM.png" alt='dono' />
                     <score id='score'>
                         <grade>Overall:</grade>
 					    <gradeint>73.0</gradeint>
@@ -867,8 +867,8 @@ class Team extends Component {
 					</tr>
 				</table>
 
-                <div className="pic" id='kraick'>
-					<img src="https://ffavi.s3.amazonaws.com/Screen+Shot+2019-09-01+at+10.43.40+PM+(1).png" />
+                <div id='kraick'>
+					<img id='pic' src="https://ffavi.s3.amazonaws.com/Screen+Shot+2019-09-01+at+10.43.40+PM+(1).png" alt='kraick' />
                     <score id='score'>
                         <grade>Overall:</grade>
 					    <gradeint>70.5</gradeint>
@@ -953,8 +953,8 @@ class Team extends Component {
 					</tr>
 				</table>
 
-                <div className="pic" id='troy'>
-					<img src="https://ffavi.s3.amazonaws.com/Screen+Shot+2019-09-01+at+10.48.10+PM.png" />
+                <div  id='troy'>
+					<img id='pic' src="https://ffavi.s3.amazonaws.com/Screen+Shot+2019-09-01+at+10.48.10+PM.png" alt='troy'></img>
                     <score id='score'>
                         <grade>Overall:</grade>
 					    <gradeint>49.0</gradeint>
