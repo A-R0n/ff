@@ -82,8 +82,8 @@ gradeint {
 p {
 	text-align: left;
 	text-indent: 10%;
-    padding: 5px;
-    min-width: 66%;
+	padding: 5px;
+	min-width: 66%;
 	/* overflow: scroll; */
 }
 
@@ -95,47 +95,10 @@ a {
 	font-weight: bold;
 }
 
-/* @media only screen and (max-width: 580px) {
-
+@media only screen and (max-width: 580px) {
 	table {
 		max-width: 96%;
 	}
-	.pic {
-		display: flex;
-		flex-shrink: 1;
-		align-content: space-between;
-		align-items: space-between;
-		padding: none;
-		margin: auto;
-	}
-
-	#score {
-		margin-right: 10px;
-		padding-right: 10px;
-	}
-
-	#matt {
-		margin-top: auto;
-	}
-
-	img {
-		padding-left: 0;
-		margin-bottom: auto;
-		width: 140px;
-		height: 140px;
-    }
-    
-    #score {
-        min-width: 62%;
-    }
-    #mypic {
-		padding-left: 0px;
-        max-width: 120px;
-        max-height: 120px;
-	}
-} */
-
-@media only screen and (max-width: 580px) {
 	img {
 		height: 100px;
 		width: 100px;
@@ -147,10 +110,10 @@ a {
 		max-width: 100px;
 	}
 	.pic {
-        display: flex;
-        justify-content: space-between;
-        align-content: space-between;
-        align-items: space-between;
+		display: flex;
+		justify-content: space-between;
+		align-content: space-between;
+		align-items: space-between;
 		/* min-width: 70%; */
 		padding-right: 0px;
 		margin-left: 0px;
