@@ -19,8 +19,6 @@ class Team extends Component {
 						<p>"For the fxckin kids, man."</p>
                     </score>
 				</div>
-				
-
 				<table>
 					<tr>
 						<th className="round">Round</th>
@@ -104,7 +102,7 @@ class Team extends Component {
                     <score id='score'>
                         <grade>Overall:</grade>
 					    <gradeint>93.5</gradeint>
-                        <p>Tyreek Hill cooks people...and abuses them. James Cancer survived cancer, he will surely survive this season. Josh Jacobs is better than Le'Veon Bell. Calvin Ridley a great handcuff, Julio is always injured. Dante Pettis acts like a chawawa - barks a lot but doesn't have any fight.</p>
+                        <p>Tyreek Hill cooks people...and abuses them. James Cancer survived cancer, he will surely survive this season. Josh Jacobs is better than Le'Veon Bell. Calvin Ridley a great handcuff, Julio is always injured. Dante Pettis acts like a chawawa - all bark no bite.</p>
                     </score>
 				</div>
                 <table>
@@ -612,7 +610,91 @@ class Team extends Component {
 						<td>B</td>
 					</tr>
 				</table>
-
+				<div className="pic" id='shook'>
+					<img src="https://ffavi.s3.amazonaws.com/Screen+Shot+2019-09-01+at+10.44.00+PM+(1).png" />
+                    <score id='score'>
+                        <grade>Overall:</grade>
+					    <gradeint>76.5</gradeint>
+                        <p>Tyler Lockett is a kick returner. He won't do anything this year. Kyler Murray is a rookie behind a terrible o-line. He will likely get injured. Keep scratching backs.</p>
+                    </score>
+				</div>
+                <table>
+					<tr>
+						<th className="round">Round</th>
+						<th>Player</th>
+						<th>Score</th>
+					</tr>
+					<tr>
+						<td>1</td>
+						<td>Nick Chubb</td>
+						<td>A</td>
+					</tr>
+                    <tr>
+						<td>2</td>
+						<td>Joe Mixon</td>
+						<td>B+</td>
+					</tr>
+                    <tr>
+						<td>3</td>
+						<td>Amari Cooper</td>
+						<td>F-</td>
+					</tr>
+                    <tr>
+						<td>4</td>
+						<td>Tyler Lockett</td>
+						<td>D+</td>
+					</tr>
+                    <tr>
+						<td>5</td>
+						<td>Austin Ekeler</td>
+						<td>B+</td>
+					</tr>
+                    <tr>
+						<td>6</td>
+						<td>Tyler Boyd</td>
+						<td>B</td>
+					</tr>
+                    <tr>
+						<td>7</td>
+						<td>Vance McDonald</td>
+						<td>B</td>
+					</tr>
+                    <tr>
+						<td>8</td>
+						<td>Chicago Bears</td>
+						<td>B+</td>
+					</tr>
+                    <tr>
+						<td>9</td>
+						<td>Royce Freeman</td>
+						<td>B</td>
+					</tr>
+                    <tr>
+						<td>10</td>
+						<td>Courtland Sutton</td>
+						<td>C</td>
+					</tr>
+                    <tr>
+						<td>11</td>
+						<td>Kyler Murray</td>
+						<td>C-</td>
+					</tr>
+                    <tr>
+						<td>12</td>
+						<td>Jamison Crowder</td>
+						<td>D</td>
+					</tr>
+                    <tr>
+						<td>13</td>
+						<td>Will Lutz</td>
+						<td>C</td>
+					</tr>
+                    <tr>
+						<td>14</td>
+						<td>Trey Burton</td>
+						<td>D</td>
+					</tr>
+				</table>
                 <div className="pic" id='hayden'>
 					<img id ='hayden' src="https://ffavi.s3.amazonaws.com/Screen+Shot+2019-09-01+at+10.46.40+PM.png" />
                     <score id='score'>
@@ -698,11 +780,12 @@ class Team extends Component {
 						<td>B</td>
 					</tr>
 				</table>
+				
                 <div className="pic" id='dono'>
 					<img src="https://ffavi.s3.amazonaws.com/Screen+Shot+2019-09-01+at+10.49.21+PM.png" />
                     <score id='score'>
                         <grade>Overall:</grade>
-					    <gradeint>75.0</gradeint>
+					    <gradeint>73.0</gradeint>
                         <p>In the first round you gotta go with the guy that carries the team on his back. Chris Carson is not that guy. Edelman has never played for a team other than the patriots because if he did everyone would know that he was just a system player. Todd Gurley has that upside, smart to not let him fall.</p>
                     </score>
 				</div>
@@ -783,12 +866,13 @@ class Team extends Component {
 						<td>C</td>
 					</tr>
 				</table>
+
                 <div className="pic" id='kraick'>
 					<img src="https://ffavi.s3.amazonaws.com/Screen+Shot+2019-09-01+at+10.43.40+PM+(1).png" />
                     <score id='score'>
                         <grade>Overall:</grade>
 					    <gradeint>70.5</gradeint>
-                        <p>DJ Moore sucks. Andrew Luck birthed TY Hilton. Without him he is nothing. Ronald Jones was described as "scared" by Tampa Bay's coaching staff. Deshaun Watson is a person of high moral character but his o-line sucks. If Saquon gets hurt, your season is over.</p>
+                        <p>DJ Moore sucks. Andrew Luck birthed TY Hilton. Without him he is nothing. Ronald Jones was described as "scared" by Tampa Bay's coaching staff. Deshaun Watson is a person of high moral character but his o-line sucks. What has Kerryon ever done or said? I hardly even know him. If Saquon gets hurt, your season is over.</p>
                     </score>
 				</div>
                 <table>
@@ -868,91 +952,7 @@ class Team extends Component {
 						<td>B</td>
 					</tr>
 				</table>
-                <div className="pic" id='shook'>
-					<img src="https://ffavi.s3.amazonaws.com/Screen+Shot+2019-09-01+at+10.44.00+PM+(1).png" />
-                    <score id='score'>
-                        <grade>Overall:</grade>
-					    <gradeint>66.5</gradeint>
-                        <p>Tyler Lockett is a kick returner. He won't do anything this year. Kyler Murray is a rookie behind a terrible o-line. He will likely get injured. Keep scratching backs.</p>
-                    </score>
-				</div>
-                <table>
-					<tr>
-						<th className="round">Round</th>
-						<th>Player</th>
-						<th>Score</th>
-					</tr>
-					<tr>
-						<td>1</td>
-						<td>Nick Chubb</td>
-						<td>A</td>
-					</tr>
-                    <tr>
-						<td>2</td>
-						<td>Joe Mixon</td>
-						<td>B+</td>
-					</tr>
-                    <tr>
-						<td>3</td>
-						<td>Amari Cooper</td>
-						<td>F-</td>
-					</tr>
-                    <tr>
-						<td>4</td>
-						<td>Tyler Lockett</td>
-						<td>D+</td>
-					</tr>
-                    <tr>
-						<td>5</td>
-						<td>Austin Ekeler</td>
-						<td>B+</td>
-					</tr>
-                    <tr>
-						<td>6</td>
-						<td>Tyler Boyd</td>
-						<td>B</td>
-					</tr>
-                    <tr>
-						<td>7</td>
-						<td>Vance McDonald</td>
-						<td>B</td>
-					</tr>
-                    <tr>
-						<td>8</td>
-						<td>Chicago Bears</td>
-						<td>B+</td>
-					</tr>
-                    <tr>
-						<td>9</td>
-						<td>Royce Freeman</td>
-						<td>B</td>
-					</tr>
-                    <tr>
-						<td>10</td>
-						<td>Courtland Sutton</td>
-						<td>C</td>
-					</tr>
-                    <tr>
-						<td>11</td>
-						<td>Kyler Murray</td>
-						<td>C-</td>
-					</tr>
-                    <tr>
-						<td>12</td>
-						<td>Jamison Crowder</td>
-						<td>D</td>
-					</tr>
-                    <tr>
-						<td>13</td>
-						<td>Will Lutz</td>
-						<td>C</td>
-					</tr>
-                    <tr>
-						<td>14</td>
-						<td>Trey Burton</td>
-						<td>D</td>
-					</tr>
-				</table>
+
                 <div className="pic" id='troy'>
 					<img src="https://ffavi.s3.amazonaws.com/Screen+Shot+2019-09-01+at+10.48.10+PM.png" />
                     <score id='score'>
