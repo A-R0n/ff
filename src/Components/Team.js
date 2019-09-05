@@ -16,7 +16,7 @@ class Team extends Component {
                     <score id='score'>
                         <grade>Overall:</grade>
 					    <gradeint>98.5</gradeint>
-                        <p>They can't stop me. Even if they stopped me HA HA HA</p>
+                        <p>Davante was safe. Leonard fournette was "for the fuckin kids." Not a single negative report on David Montgomery. I would be really shocked if he isn't the bell cow this year. Bucs coaching staff didn't add any depth behind Godwin because they don't need to. Yall let derrick henry drop to the fifth smh. Patriots let Josh Gordon smoke weed. He is the best athlete on that team and will easily be a WR1 this season. Lamar Jackson is the next mike vick. He'll be on my bench lol. Sick World. Mark Andrews is the best receiver on the ravens according to everyone tied to that organization.</p>
                     </score>
 				</div>
 				<table>
@@ -33,7 +33,7 @@ class Team extends Component {
 					</tr>
                     <tr>
 						<td>2</td>
-						<td>Leonard Fournette</td>
+						<td><a href='https://www.youtube.com/watch?v=DEkSznU4054' target='_blank'>Leonard Fournette</a></td>
 						<td>A+</td>
 					</tr>
                     <tr>
@@ -104,7 +104,6 @@ class Team extends Component {
 					    <gradeint>93.5</gradeint>
                         <p>"Antonio is the best receiver in the game. He's the best I've played against, easily. His hands are strong. He's very smart, very crafty in the way he does things. His routes are crisp. He's just very good. He's a dog at the end of the day. He's the ultimate competitor- somebody who I love going against." -Jalen Ramsey
                         </p>
-
                     </score>
 				</div>
 
@@ -189,8 +188,8 @@ class Team extends Component {
 					<img src="https://ffavi.s3.amazonaws.com/Screen+Shot+2019-09-01+at+10.43.32+PM+(1).png" />
                     <score id='score'>
                         <grade>Overall:</grade>
-					    <gradeint>91.5</gradeint>
-                        <p><a href='https://www.youtube.com/watch?v=M6djFYxsIDs' target='_blank'>AJ Green soft</a></p>
+					    <gradeint>89.5</gradeint>
+                        <p>Great first three pics. After that, not so much</p>
                     </score>
 				</div>
                 <table>
@@ -201,7 +200,7 @@ class Team extends Component {
 					</tr>
 					<tr>
 						<td>1</td>
-						<td>Deandre Hopkins</td>
+						<td><a href='https://www.youtube.com/watch?v=1eMHU634Y5Q' target='_blank'>Deandre Hopkins</a></td>
 						<td>A</td>
 					</tr>
                     <tr>
@@ -231,7 +230,7 @@ class Team extends Component {
 					</tr>
                     <tr>
 						<td>7</td>
-						<td>AJ Green</td>
+						<td><a href='https://www.youtube.com/watch?v=M6djFYxsIDs' target='_blank'>AJ Green</a></td>
 						<td>B</td>
 					</tr>
                     <tr>
@@ -275,7 +274,7 @@ class Team extends Component {
                     <score id='score'>
                         <grade>Overall:</grade>
 					    <gradeint>88.5</gradeint>
-                        <p>Will regret every player he drafted. Trade them away then regret that as well.</p>
+                        <p>You're gonna pick up a rb in free agency that's just as productive as freeman and not know who to start so will come up with 20 trades for everyone. Wouldn't be in this situation if you just drafted Antonio Brown. A free agent will not be better than him.</p>
                     </score>
 				</div>
                 <table>
@@ -361,7 +360,7 @@ class Team extends Component {
                     <score id='score'>
                         <grade>Overall:</grade>
 					    <gradeint>83.5</gradeint>
-                        <p>Tyreek Hill cooks people....and abuses them.</p>
+                        <p>Tyreek Hill cooks people....and abuses them. What made you think Peyton Barber was a better pic than Lamar Jackson? Russell Wilson likes playing step dad, which is strange. Dante Pettis acts like the leader of LGBTQ+. I like Josh Jacobs. He's better than Le'Veon Bell and still hangs out with his poor friends.</p>
                     </score>
 				</div>
                 <table>
@@ -382,7 +381,7 @@ class Team extends Component {
 					</tr>
                     <tr>
 						<td>3</td>
-						<td>Josh Jacobs</td>
+						<td><a href='https://www.youtube.com/watch?v=qIl8reFnYBU' target='_blank'>Josh Jacobs</a></td>
 						<td>A</td>
 					</tr>
                     <tr>
@@ -446,7 +445,7 @@ class Team extends Component {
                     <score id='score'>
                         <grade>Overall:</grade>
 					    <gradeint>81.5</gradeint>
-                        <p>Every single season, it is Corey Davis' goal to be the worst wide receiver in the league.</p>
+                        <p>Every single season, it is Corey Davis' goal to be the worst wide receiver in the league. Melvin Gordon isn't even passionate about football, he just wants a pay check.</p>
                     </score>
                 </div>
                 <table>
@@ -493,7 +492,7 @@ class Team extends Component {
                     <tr>
 						<td>8</td>
 						<td>LeSean McCoy</td>
-						<td>A-</td>
+						<td>B</td>
 					</tr>
                     <tr>
 						<td>9</td>
@@ -507,7 +506,7 @@ class Team extends Component {
 					</tr>
                     <tr>
 						<td>11</td>
-						<td>Jacksonville Jaguars</td>
+						<td><a href='https://www.youtube.com/watch?v=zn_cHJQApjI' target='_blank'>Jacksonville Jaguars</a></td>
 						<td>A+</td>
 					</tr>
                     <tr>
@@ -531,7 +530,7 @@ class Team extends Component {
                     <score id='score'>
                         <grade>Overall:</grade>
 					    <gradeint>78.0</gradeint>
-                        <p>Brandin and dalvin aint cookin nobody.</p>
+                        <p>You have David Njokewho in the flex. Cmon man. Alexander Mattison is better than Dalvin Cook and we will see this when Cook gets injured once again.</p>
                     </score>
 				</div>
                 <table>
@@ -613,11 +612,11 @@ class Team extends Component {
 				</table>
 
                 <div className="pic" id='hayden'>
-					<img id ='mypic' src="https://ffavi.s3.amazonaws.com/Screen+Shot+2019-09-01+at+10.46.40+PM.png" />
+					<img id ='hayden' src="https://ffavi.s3.amazonaws.com/Screen+Shot+2019-09-01+at+10.46.40+PM.png" />
                     <score id='score'>
                         <grade>Overall:</grade>
 					    <gradeint>75.0</gradeint>
-                        <p>Nothinn.</p>
+                        <p>Chris Godwin is a lot better than Mike Evans. Sony Michel could get benched or even cut for fumbling the ball. Hard to trust Patriots running backs</p>
                     </score>
 				</div>
                 <table>
@@ -702,7 +701,7 @@ class Team extends Component {
                     <score id='score'>
                         <grade>Overall:</grade>
 					    <gradeint>75.0</gradeint>
-                        <p>Edelman in the fourth but i got the better receiver josh gordon in the sixth.</p>
+                        <p>In the first round you gotta go with the guy that carries the team on his back. Chris Carson is not that guy. Edelman has never played for a team other than the patriots because if he did everyone would know that he was just a system player.</p>
                     </score>
 				</div>
                 <table>
@@ -724,7 +723,7 @@ class Team extends Component {
                     <tr>
 						<td>3</td>
 						<td><a id='diggs' href='https://www.youtube.com/watch?v=5d-Smb2DfvM' target='_blank'>Stefon Diggs</a></td>
-						<td>A</td>
+						<td>B+</td>
 					</tr>
                     <tr>
 						<td>4</td>
@@ -787,7 +786,7 @@ class Team extends Component {
                     <score id='score'>
                         <grade>Overall:</grade>
 					    <gradeint>70.5</gradeint>
-                        <p>How does DJ Moore go from being first receiver drafted to sucking it up his rookie year. Him and Corey Davis must be good friends. Neither of them have any upside. Just "happy to be here". Hunter Henry aint huntin for nobody. Andrew Luck birthed TY Hilton. Never seen him make one highlight real catch. Ronald Jones was described as "scared" by his coaching staff.</p>
+                        <p>DJ Moore sucks. Andrew Luck birthed TY Hilton. Without him he is nothing. Ronald Jones was described as "scared" by Tampa Bay's coaching staff. Deshaun Watson is a person of high moral character but his o-line sucks. If Saquon gets hurt, your season is over.</p>
                     </score>
 				</div>
                 <table>
@@ -818,8 +817,8 @@ class Team extends Component {
 					</tr>
                     <tr>
 						<td>5</td>
-						<td>Deshaun Watson</td>
-						<td>A</td>
+						<td><a href='https://www.youtube.com/watch?v=a7lQjHNRmZI' target='_blank'>Deshaun Watson</a></td>
+						<td>A-</td>
 					</tr>
                     <tr>
 						<td>6</td>
@@ -872,7 +871,7 @@ class Team extends Component {
                     <score id='score'>
                         <grade>Overall:</grade>
 					    <gradeint>66.5</gradeint>
-                        <p>Spend faab early and often. Keep scratching backs.</p>
+                        <p>Tyler Lockett is a kick returner. He won't do anything this year. Kyler Murray is a rookie behind a terrible o-line. He will likely get injured. Spend faab early and often. Keep scratching backs.</p>
                     </score>
 				</div>
                 <table>
@@ -904,7 +903,7 @@ class Team extends Component {
                     <tr>
 						<td>5</td>
 						<td>Austin Ekeler</td>
-						<td>B</td>
+						<td>B+</td>
 					</tr>
                     <tr>
 						<td>6</td>
@@ -939,7 +938,7 @@ class Team extends Component {
                     <tr>
 						<td>12</td>
 						<td>Jamison Crowder</td>
-						<td>F</td>
+						<td>D</td>
 					</tr>
                     <tr>
 						<td>13</td>
@@ -956,8 +955,8 @@ class Team extends Component {
 					<img src="https://ffavi.s3.amazonaws.com/Screen+Shot+2019-09-01+at+10.48.10+PM.png" />
                     <score id='score'>
                         <grade>Overall:</grade>
-					    <gradeint>40.0</gradeint>
-                        <p>Idek man. You fuckin suck.
+					    <gradeint>49.0</gradeint>
+                        <p>Saquon Barkley is way better, bigger, stronger, and faster than Christian McCaffrey, who will be tasked with a lighter workload this year, according to the coaching staff. Damien Williams was a third string RB at Miami when they were the worst rushing team in the league. Keenan Allen is always hurt. OJ Howard is just a person. Miles Sanders will split carries in the Eagle's offense, even though he's good. Jarvis Landry has a good work ethic but no upside. Adrian Peterson is 33 years old and Derrius Guice is better. Jameis Winston was a good pick. You can drop Giovani Bernard. Jamaal Williams is nothing.
                         </p>
                     </score>
 				</div>
@@ -995,7 +994,7 @@ class Team extends Component {
                     <tr>
 						<td>6</td>
 						<td>Jarvis Landry</td>
-						<td>C</td>
+						<td>B-</td>
 					</tr>
                     <tr>
 						<td>7</td>
