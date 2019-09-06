@@ -7,8 +7,9 @@ import Song from './Components/Song';
 function App() {
   return (
     <div className="App">
-      <Song />
-      <Team />
+      Not in service
+      {/* <Song />
+      <Team /> */}
     </div>
   );
 }
